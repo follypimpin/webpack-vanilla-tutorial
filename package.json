@@ -1,0 +1,25 @@
+{
+  "name": "webpack-demo-vanilla-app",
+  "version": "1.0.0",
+  "description": "Learning webpack configuration with a vanilla js",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/follypimpin/webpack-vanilla-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/follypimpin/webpack-vanilla-tutorial/issues"
+  },
+  "homepage": "https://github.com/follypimpin/webpack-vanilla-tutorial#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
